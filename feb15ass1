@@ -1,0 +1,12 @@
+a=int(input('enter number:'))
+b=int(input('enter the number:'))
+print(a+b)
+print(a-b)
+print(a*b)
+
+Output:
+enter number:21
+enter number:3
+27
+15
+126
